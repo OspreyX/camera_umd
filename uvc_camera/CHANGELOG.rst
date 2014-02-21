@@ -2,12 +2,14 @@
 Changelog for package uvc_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.1 (2014-02-19)
+0.2.2 (2014-02-20)
 ------------------
-* parameterize extra camera control parameter
-* change the camera control of exposure and constrast to something more reasonable
-* added install rule for nodelet_uvc_camera.xml
-* Contributors: David Gossow, y22ma
+* add launch files installation
+* Contributors: y22ma
+
+0.2.1 (2014-01-12)
+------------------
+* Added install rule for nodelet_uvc_camera.xml
 
 0.2.0 (2013-08-02)
 ------------------
